@@ -8,7 +8,7 @@ _⚠️ Nghiêm cấm làm bẩn trong 30 phút trước giờ động đất c�
 
 ### I. YÊU CẦU ĐỐI VỚI ĐỐI TƯỢNG THAM GIA
 
-- **Phương tiện cho phép:** Được sử dụng phương tiện ô tô 4 bánh và xe 2 bánh _(Đối với xe 2 bánh, khi bị té cảnh sát sẽ có quyền trực tiếp áp chế còng tay, nếu cố tình bỏ chạy cảnh sát có quyền triệt hạ $\rightarrow$ **KẾT THÚC TÌNH HUỐNG TRUY ĐUỔI**)_.
+- **Phương tiện cho phép:** Được sử dụng phương tiện ô tô 4 bánh và xe 2 bánh _(Đối với xe 2 bánh, khi bị té cảnh sát sẽ có quyền trực tiếp áp chế còng tay, nếu cố tình bỏ chạy cảnh sát có quyền triệt hạ > **KẾT THÚC TÌNH HUỐNG TRUY ĐUỔI**)_.
 - **Số lượng:** Tối thiểu 1 người và tối đa 4 người tham gia _(Chỉ 1 người được thực hiện vụ cướp)_.
 - ❌ **Phương tiện CẤM tham gia:** Thuyền, xe đạp, xe nhà gang, xe quà khố, xe cốp, các phương tiện của nghề sạch nói chung, máy bay, v.v...
 - _Trường hợp sử dụng phương tiện không được phép tham gia tình huống, cảnh sát có quyền hủy tình huống._
@@ -27,7 +27,7 @@ _⚠️ Nghiêm cấm làm bẩn trong 30 phút trước giờ động đất c�
 - **Thời gian truy đuổi:**
   - **Còi 1:** 2 phút _(Theo dấu)_.
   - **Còi 2:** 1 phút _(Chặn đường bay...)_.
-  - **Còi 3:** 10s _(Sau 10s được triệt hạ. Ô tô: bắn lốp - cấm bắn người lái; Xe máy: được bắn thẳng người điều khiển. Được ép xe / chặn đầu)_ $\rightarrow$ _Xem chi tiết ở Luật truy đuổi_.
+  - **Còi 3:** 10s _(Sau 10s được triệt hạ. Ô tô: bắn lốp - cấm bắn người lái; Xe máy: được bắn thẳng người điều khiển. Được ép xe / chặn đầu)_ > _Xem chi tiết ở Luật truy đuổi_.
 
 **LƯU Ý:**
 

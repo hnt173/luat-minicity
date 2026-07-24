@@ -6,7 +6,7 @@
 
 ### I. ĐỐI VỚI CƯ DÂN
 
-- **Phương tiện cho phép:** Được sử dụng phương tiện ô tô 4 bánh và xe 2 bánh *(Đối với xe 2 bánh, khi bị té cảnh sát sẽ có quyền trực tiếp áp chế còng tay, nếu cố tình bỏ chạy cảnh sát có quyền triệt hạ $\rightarrow$ **KẾT THÚC TÌNH HUỐNG**)*.
+- **Phương tiện cho phép:** Được sử dụng phương tiện ô tô 4 bánh và xe 2 bánh *(Đối với xe 2 bánh, khi bị té cảnh sát sẽ có quyền trực tiếp áp chế còng tay, nếu cố tình bỏ chạy cảnh sát có quyền triệt hạ > **KẾT THÚC TÌNH HUỐNG**)*.
 - ❌ **Phương tiện CẤM tham gia:** Thuyền, xe đạp, máy bay...
 
 ---
@@ -17,7 +17,7 @@
 - **Tín hiệu:** Trước khi vào phải bật đèn còi.
 - **Thời gian truy đuổi:**
   - Bắt đầu từ **Còi 2:** 1 phút.
-  - **Còi 3:** 10s *(Sau 10s được triệt hạ. Ô tô: bắn lốp - cấm bắn người lái; Xe máy: được bắn thẳng người điều khiển. Được ép xe / chặn đầu)* $\rightarrow$ *Xem chi tiết ở Luật truy đuổi*.
+  - **Còi 3:** 10s *(Sau 10s được triệt hạ. Ô tô: bắn lốp - cấm bắn người lái; Xe máy: được bắn thẳng người điều khiển. Được ép xe / chặn đầu)* > *Xem chi tiết ở Luật truy đuổi*.
 
 **LƯU Ý:**
 - Cảnh sát được phép dừng mọi phương tiện gần khu vực cấm (vùng đỏ) để kiểm tra. Nếu có các vật phẩm từ hành vi trồng/hái cần, cảnh sát sẽ tịch thu. Nếu bỏ chạy thì tính theo tội không tuân theo hiệu lệnh cảnh sát.

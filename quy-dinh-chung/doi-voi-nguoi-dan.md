@@ -1,5 +1,6 @@
 # ĐỐI VỚI NGƯỜI DÂN
 
-Các quy tắc và chuẩn mực hành vi dành cho công dân thành phố.
+## TRÁCH NHIỆM CỦA CÔNG DÂN
 
-*Lưu ý: Mục này nằm trong hệ thống phân mục Bộ Luật MiniCity.*
+- **Tuân thủ hiệu lệnh:** Tuân thủ hiệu lệnh của Police, cung cấp thông tin khi được yêu cầu. Chống đối hoặc bất hợp tác làm nặng thêm hình phạt.
+- **Cung cấp chứng cứ:** Chủ động cung cấp các chứng cứ ngoại phạm, nhân chứng khi tham gia tình huống để bảo vệ quyền lợi của chính mình khi có tranh chấp.

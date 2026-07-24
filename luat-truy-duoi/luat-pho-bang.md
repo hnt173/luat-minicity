@@ -15,9 +15,9 @@ _⚠️ Nghiêm cấm làm bẩn trong 30 phút trước giờ động đất c�
 
 **LƯU Ý:**
 
-- **Không được BACKUP đối với phương tiện 2 bánh đã/đang tham gia phó bảng** _(Chỉ được dùng 1 phương tiện ban đầu tham gia tình huống)_.
+- **Không được BACKUP đối với phương tiện 2 bánh đã/đang tham gia phó bản** _(Chỉ được dùng 1 phương tiện ban đầu tham gia tình huống)_.
 - Nếu cảnh sát mất dấu tội phạm, tội phạm không được thay đổi đồ mặc, xe, tóc (nhận diện). Phải chờ hết 10 phút mới được quyền thay đổi.
-- Trong các tình huống phó bảng nghề bẩn phía lực lượng PD chỉ có 1 xe 1 người, phía công dân không được phép chống trả và dẫn dụ tấn công Deathmatching (DM - Kill người vô cớ).
+- Trong các tình huống phó bản nghề bẩn phía lực lượng PD chỉ có 1 xe 1 người, phía công dân không được phép chống trả và dẫn dụ tấn công Deathmatching (DM - Kill người vô cớ).
 
 ---
 

@@ -9,7 +9,7 @@
   * [Luật Dân sự](luat-roleplay/luat-dan-su.md)
   * [Luật Hình sự](luat-roleplay/luat-hinh-su.md)
 * [Luật Truy đuổi](luat-truy-duoi/README.md)
-  * [Luật Phó bảng](luat-truy-duoi/luat-pho-bang.md)
+  * [Luật Phó bản](luat-truy-duoi/luat-pho-bang.md)
   * [Luật Vùng cấm](luat-truy-duoi/luat-vung-cam.md)
 * [Luật Giao tranh](luat-giao-tranh.md)
 * [Điều khoản thi hành](dieu-khoan-thi-hanh.md)

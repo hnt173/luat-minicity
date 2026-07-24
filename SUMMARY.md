@@ -11,5 +11,6 @@
 * [Luật Truy đuổi](luat-truy-duoi/README.md)
   * [Luật Phó bản](luat-truy-duoi/luat-pho-bang.md)
   * [Luật Vùng cấm](luat-truy-duoi/luat-vung-cam.md)
+* [Luật Phạt Chung](luat-phat-chung.md)
 * [Luật Giao tranh](luat-giao-tranh.md)
 * [Điều khoản thi hành](dieu-khoan-thi-hanh.md)
